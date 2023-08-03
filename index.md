@@ -2,28 +2,32 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alberto Gianelli
+Senior Electronics Engineer & Product Designer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="alberto.gianelli1@gmail.com">alberto.gianelli1@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
-## Currently
+## Personal Data
 
-Standing on the shoulders of giants
+### Place & Date of Birth
 
-### Specialized in
+Albenga (SV), Italy - 26 May 1994
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Address
 
+Dalgårdsvägen 6, 12133 Enskededalen, Sweden
 
 ### Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
+### Phone
+
++46728675908
 
 ## Education
 
